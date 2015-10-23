@@ -12,7 +12,7 @@ import android.widget.EditText;
 public class MyActivity extends AppCompatActivity {
 
    public final static String EXTRA_MESSAGE = "com.mycompany.myfirstapp.MESSAGE";
-//comments
+//commentss
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
