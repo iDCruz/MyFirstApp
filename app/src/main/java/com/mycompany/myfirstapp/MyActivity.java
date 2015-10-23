@@ -48,11 +48,11 @@ public class MyActivity extends AppCompatActivity {
     }
 
     public void openSearch(){
-
+        return;
     }
 
     public void openSettings(){
-
+        return;
     }
 
     public void sendMessage(View view){
